@@ -117,7 +117,7 @@ elif selected_page == "Demonstration":
     st.video("Videos/navigation.mp4", start_time=0)
 
     st.subheader("Single Task Tutorial")
-    st.video("Videos/start_task1.mp4", start_time=0)
+    st.video("Videos/start_task2.mp4", start_time=0)
     st.markdown("""
     1. Navigate to the **Start Task** page.
     2. Enter the 8-character code when prompted.
